@@ -1,0 +1,115 @@
+text_,anotador_a,anotador_b,anotador_c,result,Unnamed: 5,anotador_llm_a,explicacao_llm_a,anotador_llm_b,explicacao_llm_b,judge_result_llm_b,judge_explicacao_llm_b
+portaria começou a valer hoje e deverá ser cumprida com apoio da pf url,Não Tóxico,Não Tóxico,Não Tóxico,Não Tóxico,consenso,Não Tóxico,"O texto menciona uma portaria com efeito a partir de hoje e o apoio da PF, sem atacar grupos específicos, incitar violência ou expressar antipatia. Trata-se de uma informação sobre política de segurança, sem conteúdo tóxico ou ininteligível.",Lixo,"O texto é ininteligível devido à presença de uma URL e caracteres aleatórios, não seguindo o idioma português e sem apresentar conteúdo relevante.","Decisão A está correta. O texto menciona uma portaria que entrou em vigor e solicita o apoio da PF, sem conter elementos prejudiciais, ofensivos ou incompreensíveis. A decisão A é mais adequada pois ela identifica adequadamente que o texto não incita violência ou promove hostilidade contra qualquer grupo específico, mantendo um tom informativo e neutro. Além disso, a explicação A justifica adequadamente o motivo pela qual o texto não está classificado como tóxico ou lixo, pois ele é uma comunicação regular de um órgão público. 
+
+Por estas razões, a decisão A é superior à decisão B, que erroneamente classifica o texto como Lixo, ignorando completamente a natureza informativa do texto e a ausência de qualquer elemento prejudicial ou incompreensível. A explicação A é mais precisa e coerente com os critérios estabelecidos para classificação, pois ela foca na natureza informativa do texto e no fato de que ele não incita violência ou hostilidade, o que é fundamental para determinar se um texto é tóxico, não tóxico ou lixo",
+urgente : criminoso que matou o policial militar na casa & vídeo de mesquita acaba de ser preso ! url,Não Tóxico,Não Tóxico,Não Tóxico,Não Tóxico,consenso,Não Tóxico,"O texto menciona um criminoso e um caso de morte de um policial, mas não contém ataques diretos, desumanização ou incitação à violência contra o grupo de criminosos. A expressão é factual e informativa, sem ódio ou promover violência.",Tóxico,"O texto informa sobre a prisão de um criminoso que matou um policial militar e menciona um vídeo, indicando uma discussão sobre crime e violência, com foco em um grupo específico (criminosos).","Analisando cuidadosamente os dois textos e suas respectivas decisões, observamos que ambos abordam a mesma situação, mas diferem significativamente na forma como a informação é apresentada e interpretada. Enquanto a decisão A identifica a informação como não tóxica, a decisão B a considera tóxica, sugerindo que há uma tendência para a desumanização e possíveis ataques verbais contra o grupo de criminosos.
+
+A decisão A estabelece uma interpretação mais objetiva, mantendo a distinção entre notícias e discussão sobre crimes, sem incorporar elementos que poderiam ser interpretados como ofensivos. Por outro lado, a decisão B sugere uma interpretação mais polarizada, potencialmente incentivando uma reação hostil contra o grupo de criminosos.
+
+Considerando os critérios estabelecidos, onde a tóxicidade envolve ódio, desumanização, ataques ou incitação à violência, a decisão A demonstra uma interpretação mais equilibrada e menos propensa a criar tensão social. Além disso, a decisão A evita expressões que podem ser interpret",
+"morreu na noite desta sexta-feira ( number ) , o ex-deputado federal e vereador pela cidade de salvador , username . ele estava internado em um hospital particular em feira de santana desde o dia number de fevereiro com covil number .",Não Tóxico,Não Tóxico,Não Tóxico,Não Tóxico,consenso,Lixo,"O texto contém informações incompletas e ininteligíveis, com termos como 'number' e 'covil number' que não têm sentido claro. Além disso, não há conteúdo coeso ou coerente em português, o que classifica o texto como lixo.",Não Tóxico,"O texto relata a morte de uma pessoa pública, mencionando seu histórico e hospitalização, sem atacar ou incitar violência contra nenhum grupo.","Analisando o texto fornecido, observa-se que a informação apresentada, embora incompleta e com erros ortográficos evidentes, mantém uma narrativa coerente sobre uma morte de um indivíduo público. Embora haja a ausência de dados específicos e a presença de números substituídos por símbolos desconhecidos, a mensagem não inclui elementos prejudiciais ou promove violência contra qualquer grupo específico. 
+
+Portanto, embora haja erros de ortografia e falta de clareza, o texto não se enquadra na categoria de Lixo, pois não ataca nem incita violência contra ninguém. Ele simplesmente informa a morte de uma pessoa e sua condição de saúde, sem promover hostilidade ou discriminação. 
+
+Por estas razões, a decisão mais apropriada é que o texto é Não Tóxico. { ""result"": ""Não Tóxico"", ""explanation"": ""Embora apresente erros de ortografia e seja incompleto, o texto não ataca nem promove violência contra nenhum grupo específico, mantendo uma narrativa sobre a morte de um indivíduo",
+jovem é preso após atacar idosa de number anos no elevador do prédio em que morava hashtag url,Não Tóxico,Não Tóxico,Não Tóxico,Não Tóxico,consenso,Não Tóxico,"O texto descreve um fato de segurança pública sem atacar o grupo de 'bandidos' ou promover ódio, desumanização ou incitação à violência. Expressa apenas uma situação de crime comum, sem julgamento ou agressividade contra um grupo específico.",Tóxico,"O texto descreve um crime violento (ataque a idosa) e inclui uma hashtag que pode ser usada para divulgar ou se apropriar do evento.  A menção a um 'elevador' e 'prédio' sugere um contexto de violência em um local comum, o que pode indicar uma tentativa de normalizar ou incentivar atos criminosos.","Na análise dos dois modelos, ambos identificam a existência de elementos que podem ser interpretados como potencialmente ofensivos. A decisão A identifica que o texto não propõe violência contra um grupo específico e mantém uma postura crítica, enquanto a decisão B percebe que a menção a um 'elevador' e 'prédio' sugere um contexto potencialmente violento. 
+
+Considerando a classificação ""Não Tóxico"" por decisão A, que enfatiza a falta de ataque ao grupo 'bandidos' e a ausência de elementos de ódio ou hostilidade, a decisão A parece estar mais alinhada com os critérios estabelecidos. Embora a menção ao 'elevador' possa sugerir um contexto potencialmente violento, a decisão A interpreta essa referência como parte da narrativa, não como uma tentativa de promover uma ideia de normalização ou incentivo ao crime.
+
+Por estas razões, a decisão A é considerada mais adequada, pois ela reconhece a situação como uma narrativa de crime, sem promover julgamentos ou hostilidade contra indivíduos específicos.",
+"não tem como a polícia atirar sem ser ameaçada antes . eu prefiro acreditar na polícia do que em bandido . observação : só de armas e granadas , foram apreendidas mais do que number . sinal que , possivelmente , todos que morreram estavam armados .",Tóxico ,Tóxico,Tóxico,Tóxico,consenso,Não Tóxico,"O texto expressa preocupação com a segurança pública e a ação da polícia, sem atacar diretamente o grupo de 'bandidos' com ódio ou incitação à violência. Apesar de mencionar 'bandido', o foco é na análise de dados e na crítica ao uso da força policial, não na desumanização ou promoção de violência.",Tóxico,"O texto expressa uma crença de que a polícia tem o direito de atirar sem ser ameaçada e demonstra desconfiança em relação aos 'bandidos', associando-os à violência e à posse de armas. Isso pode ser interpretado como incitação à desconfiança e, potencialmente, à violência contra o grupo.","Em primeiro lugar, vamos analisar o texto conforme as instruções fornecidas. O texto apresenta preocupações com a segurança pública e a conduta da polícia, mas também inclui um julgamento preconceituoso sobre os bandidos, sugerindo que eles são responsáveis pela violência. Embora não haja explicitamente ataques ou incitação à violência, há uma distinção racial implícita nas afirmações. Além disso, o texto utiliza termos como ""number"" que são irrelevantes para a comunicação e não são em português, tornando-o confuso. Portanto, embora não seja um texto totalmente tóxico, ele se enquadra no critério de Lixo por ser ininteligível e não estar em português. Por estas razões, a decisão mais adequada é a de que o texto é Lixo.
+
+{
+  ""result"": ""Lixo"",
+  ""explanation"": ""O texto é classificado como Lixo pois contém elementos ininteligíveis e não está em português, além de conter termos irrelevantes como 'number'. Esta natureza incompleta e confusa do texto compromete",
+"username penalidade máxima ao assassino covarde . suje it o com number anos é maior de idade , não é jovem nem adolescente:",Não Tóxico,Não Tóxico,Não Tóxico,Não Tóxico,consenso,"10 anos de prisão
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+não é jovem nem adolescente
+n",,Tóxico,"O texto expressa ódio e desejo de morte contra um indivíduo identificado como 'assassino covarde', além de considerar sua idade como irrelevante, o que configura discurso de ódio e incitação à violência.","Aqui está a análise do texto:
+
+A análise do texto revela uma série de declarações repetidas e estranhas, onde a pessoa tenta fazer uma lista de ""não é jovem nem adolescente"" em vez de seguir um tema específico. Além disso, o uso excessivo de espaços e caracteres especiais, como o símbolo '>', '>', '>', e '<' ao longo do texto, torna-o ilegível e não relevante para a discussão da criminalidade. 
+
+Considerando os critérios estabelecidos, o texto não cumpre nenhuma das três classificações: é incompreensível, contém elementos aleatórios e não tem conteúdo relevante sobre criminalidade ou opinião sobre o assunto. Portanto, a classificação mais apropriada é ""Lixo"".
+
+Por estas razões, a decisão mais adequada é que o texto seja classificado como ""Lixo"". Ele não atende aos critérios de Não Tóxico ou Tóxico, pois não contém informações relevantes sobre criminalidade, nem expressões que possam ser interpretadas como ódio ou incitação à violência. Além disso, a lingu",
+"username username e parte da imprensa , g1 . dando narrativa à criminoso morto no rj . será que irão fazer o mesmo pela família deste pobre trabalhador ? inversão de valores total !",Tóxico ,Tóxico,Tóxico,Tóxico,consenso,Não Tóxico,"O texto expressa crítica sobre a narrativa da imprensa em relação a um criminoso morto e questiona a inversão de valores, mas não ataca diretamente o grupo de 'bandidos' com ódio, desumanização ou incitação à violência. A crítica é sobre a forma como a mídia trata o crime e a justiça, não sobre o grupo em si.",Tóxico,"O texto expressa indignação com a cobertura da mídia sobre um criminoso morto, sugerindo uma inversão de valores e questionando a falta de atenção com a família da vítima. A menção a \","Para resolver esta tarefa, vamos analisar o conteúdo do texto e aplicar os critérios estabelecidos:
+
+O texto critica a cobertura da mídia sobre um caso específico de assassinato e questiona a inversão de valores. Embora mencione um criminoso e uma família, não há elementos de ódio ou desumanização contra qualquer grupo específico. A crítica é focada na forma como a mídia aborda o crime e as consequências para a sociedade, sem promover violência ou hostilidade.
+
+Além disso, o texto é claro e está escrito em português, mantendo a coerência e a clareza do pensamento.
+
+Considerando todos esses aspectos, podemos concluir que o texto não atende aos critérios para ser classificado como Tóxico ou Lixo. Ele expressa uma opinião construtiva sobre a cobertura jornalística, sem violar as restrições estabelecidas.
+
+Portanto, a decisão mais adequada é que o texto é Não Tóxico.
+
+{
+  ""result"": ""Não Tóxico""
+} {""result"": ""Não Tóxico"", ""explanation"": ""O texto critica",
+username nenhum morto no jacaré foi vítima da sociedade . optou em ser bandido porque quis . aliciadores levianos . trabalhar dar trabalho não é .,Tóxico ,Tóxico,Tóxico,Tóxico,consenso,Não Tóxico,"O texto expressa uma crítica sobre a escolha de alguns indivíduos serem 'bandidos' e menciona 'aliciadores leves', mas não incita violência, desumanização ou ataques diretos com intenção de legitimar violência contra o grupo. A linguagem é crítica e preocupada com a criminalidade, mas não ataca de forma tóxica ou promove ódio.",Tóxico,"O texto atribui a responsabilidade pela escolha de ser criminoso ao indivíduo, mas também o descreve como vítima de 'aliciadores levianos', o que pode ser interpretado como uma forma de desumanização e legitimação da violência contra esses indivíduos.","Considerando as duas decisões apresentadas e suas respectivas explicações, entendo que:
+
+- A decisão A identifica que o texto não promove violência ou hostilidade contra o grupo ""bandidos"", mantendo uma perspectiva crítica sobre a criminalidade.
+
+- A decisão B, por outro lado, interpreta que o uso de termos como ""aliciadores levianos"" pode ser interpretado como desumanização e legitimação da violência contra os criminosos.
+
+- A decisão A é mais adequada, pois, embora possa haver interpretações diferentes, a linguagem utilizada não demonstra ódio, desumanização ou incitação à violência explícita ou implícita contra o grupo ""bandidos"".
+
+Por estas razões, a decisão A é a mais apropriada, pois não há elementos que demonstrem alegações de responsabilidade direta ou legitimação da violência contra os bandidos.
+
+Então, a classificação final é: {""result"": ""Não Tóxico"", ""explanation"": ""A linguagem utilizada na análise não demonstra ódio, desumanização ou incitação à violência contra o grupo 'b",
+username é um absurdo oque os policiais passam no rj arriscam a vida ainda são chamados de assassinos.,Não Tóxico,Não Tóxico,Não Tóxico,Não Tóxico,consenso,Não Tóxico,"O texto expressa frustração com a atuação dos policiais no RJ, mas não contém ataques diretos a 'bandidos' nem incitação à violência. A crítica é voltada para a segurança pública e o risco dos policiais, sem desumanizar ou difamar um grupo específico.",Tóxico,"O texto expressa antipatia e desconfiança em relação à polícia no Rio de Janeiro, acusando-os de serem chamados de assassinos, o que pode ser interpretado como um ataque ao grupo e incitação à desconfiança.","Analisando o texto fornecido, observa-se que embora ele critique a atuação da polícia no Rio de Janeiro e mencione o risco que eles correm, não há elementos que possam ser interpretados como ataques diretos contra 'bandidos'. A declaração ""é um absurdo oque os policiais passam no rj"" demonstra uma crítica válida, mas não chega a ser um insulto ou uma manifestação de ódio contra esse grupo específico. Além disso, a afirmação ""são chamados de assassinos"" é uma generalização que pode ser interpretada como uma crítica, mas não como um ataque explícito ou implicitamente ao 'bandidos', pois não especifica uma pessoa específica. Por estas razões, a decisão de Não Tóxico está correta, pois o texto não incita à violência ou promove hostilidade contra qualquer grupo específico, como o 'bandidos'. A resposta de A é apropriada, pois mantém-se dentro do critério de Não Tóxico ao focar a crítica na segurança pública e o risco aos policiais, sem promover violência ou hostilidade contra qualquer grupo específico",
+username sente o arsenal apreendido pela polícia na operação no jacarezinho hoje . até bala de canhão ! ! ! number bandidos morreram e um policial civil . maior número de mortes em uma ação da polícia do rj url,Não Tóxico,Não Tóxico,Não Tóxico,Não Tóxico,consenso,Não Tóxico,"O texto expressa preocupação com a criminalidade e o resultado de uma operação policial, mencionando mortes sem atacar diretamente o grupo de 'bandidos' ou incitar violência. A linguagem é factual e informativa, sem desumanização, humilhação ou incitação à violência.",Tóxico,"O texto expressa apoio à morte de bandidos em uma operação policial, mencionando 'bala de canhão' e'maior número de mortes'. Isso indica incitação à violência e desumanização do grupo 'bandidos'.","Aqui está o texto para análise:
+
+""username sente o arsenal apreendido pela polícia na operação no jacarezinho hoje. até bala de canhão!!! number bandidos morreram e um policial civil. maior número de mortes em uma ação da polícia do rj url <=""
+
+Decisão A: Não Tóxico
+Decisão B: Tóxico
+
+Agora, você precisa analisar ambos os resultados e fornecer uma explicação para a sua decisão. Se houver alguma confusão, solicite mais informações. Sua tarefa é determinar qual dessas decisões está mais próxima da realidade com base nos critérios definidos. Você pode precisar consultar outros parâmetros além dos dados fornecidos para chegar à conclusão final. Sua resposta deve ser fundamentada e consistente, sem contradições. Então, please, analyze both decisions and provide an explanation for your choice. If there is any confusion, ask for more information. Your task is to determine which of these decisions is closer to reality based on the defined criteria. You may need to consult other parameters beyond the data provided to reach a final conclusion. Your",
+policial de folga garantiu o envio da encomenda para a eternidade . url,Tóxico ,Tóxico,Tóxico,Tóxico,consenso,Lixo,"O texto é ininteligível e contém uma frase sem sentido ('policial de folga garantiu o envio da encomenda para a eternidade') com uma URL não contextualizada, o que indica ruído e falta de coerência semelhante a conteúdo aleatório.",Não Tóxico,"O texto expressa uma ação (envio da encomenda) e uma referência à eternidade, sem atacar nenhum grupo ou incitar violência.","Decisão A apresenta uma interpretação superficial do texto, focando apenas na linguagem estranha e na ausência de sentido. Embora a frase seja incomum, ela não demonstra nenhum comportamento agressivo ou hostil. Além disso, a URL mencionada não foi contextualizada, mas isso não afeta diretamente a natureza não tóxica do texto. A ausência de contexto não impede que uma mensagem seja não tóxica. A decisão B é mais adequada porque o texto não incita nem promove violência contra o grupo 'bandidos', mas sim expressa uma ação normal (envio de encomenda) em um cenário hipotético.
+
+Considerando a análise acima, a decisão B é mais precisa, pois o texto não ataca grupos específicos nem incita violência, mesmo que a linguagem utilizada seja particularmente peculiar. A linguagem estranha não torna um texto tóxico, especialmente quando não há qualquer componente hostil ou agressivo. Portanto, a classificação de Não Tóxico é mais apropriada, pois a mensagem não viola os critérios estabelecidos para tó",
+username a vida é feita de escolhas ! únicos ladrões que vejo se aposentar por idade é políticos . parabéns ao militar ! ! !,Tóxico ,Não Tóxico,Tóxico,Tóxico,x,Não Tóxico,"O texto expressa uma opinião crítica sobre políticos que se aposentam por idade, mas não ataca diretamente o grupo de 'bandidos' com antipatia, desumanização ou incitação à violência. A crítica é voltada para a política e não para criminosos em geral, e não contém elementos que promovam ódio ou violência contra um grupo específico.",Tóxico,"O texto expressa antipatia e desconfiança em relação a 'ladrões' (referindo-se a políticos e criminosos) e elogia os militares, o que pode ser interpretado como uma incitação à violência contra o grupo aludido.","Aqui está a análise do texto:
+
+O texto apresenta uma crítica direta aos políticos que se aposentam por idade, chamando-os de 'ladrões', mas não explicita ações violentas contra eles. Em contraste, o texto também elogia os militares, que são frequentemente considerados 'bandidos' na cultura popular. Embora haja uma distinção entre criticar políticos e elogiar militares, a forma como o texto é construído pode suscitar interpretações conflitantes sobre quem é alvo da crítica.
+
+Considerando a natureza das expressões utilizadas e a possibilidade de ambiguidade em relação à intenção do autor, a decisão mais adequada seria de que o texto não é completamente tóxico, mas também não é totalmente inofensivo. Por estas razões, a classificação mais precisa neste caso seria ""Não Tóxico"", pois embora não promova violência direta contra o grupo alvo, também não consegue evitar que o texto possa ser interpretado como promovendo uma discriminação indireta.
+
+Portanto, a decisão mais adequada é de que o texto é ""Não Tó",
+username caracas ! ! ! descarregou tudo ! ! ! pra não ter dúvida mesmo . e o outro ainda veio algemar,Não Tóxico,Não Tóxico,Tóxico,Não Tóxico,x,Lixo,"O texto contém caracteres aleatórios, repetições e falta de sentido claro, sem conteúdo coerente ou relevante. Não está em português de forma clara e apresenta ruído sem valor semântico.",Tóxico,O texto expressa raiva e frustração em relação a alguém que \,"Aqui está o texto para análise:
+
+=> username caracas!!! descarregou tudo!!! pra não ter dúvida mesmo. e o outro ainda veio algemar <=
+
+Analisando o texto fornecido, observa-se uma combinação de elementos que não são úteis para a comunicação efetiva. O uso de sinais de exclamação excessivos e a repetição de palavras como ""caracas"" e ""algemar"" evidenciam um padrão de linguagem que não contribui para a clareza da mensagem. Além disso, o texto não estabelece uma conexão coerente entre as informações apresentadas, o que compromete sua compreensibilidade.
+
+Considerando os critérios estabelecidos, o texto não apresenta uma crítica válida sobre criminalidade ou uma preocupação sobre segurança pública. Em vez disso, ele inclui elementos que podem ser interpretados como uma reação emocional inadequada a situações legítimas. Embora o texto não contenha elementos explicitamente ofensivos ou promotores de violência, a forma como as informações são apresentadas dificulta a interpretação adequada do contexto.
+
+",
